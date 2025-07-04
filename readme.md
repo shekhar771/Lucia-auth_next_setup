@@ -2,24 +2,18 @@ Here's a polished, slightly condensed version of your README that maintains all 
 
 ---
 
-# 🔐 Reddit Clone with Next.js & Lucia Auth
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/your-repo/pulls)
-
-A full-stack Reddit clone featuring **custom authentication** with Lucia Auth, offering:
+  **custom authentication** with Lucia Auth, offering:
 
 - Secure sessions with sliding expiration
 - GitHub/Google OAuth integration
 - Middleware-protected routes
-- Subreddits, posts, and voting system
 
-![App Screenshot](/path-to-screenshot.png) *Replace with actual screenshot*
+
 
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/shekhar771/Lucia-auth_next_setup
 cd your-repo
 npm install
 cp .env.example .env # Configure your variables
@@ -36,11 +30,7 @@ npm run dev
 - Route protection middleware
 - `useSession` React hook
 
-### 📝 Community Features
-- Create/manage subreddits
-- Text/image/link posts
-- Nested comments
-- Voting system
+
 
 ## 🛠️ Tech Stack
 

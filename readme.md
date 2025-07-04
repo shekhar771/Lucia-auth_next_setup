@@ -1,6 +1,4 @@
-Here's a polished, slightly condensed version of your README that maintains all key information while improving scannability:
 
----
 
   **custom authentication** with Lucia Auth, offering:
 
